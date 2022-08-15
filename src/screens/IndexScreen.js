@@ -39,6 +39,7 @@ const IndexScreen = ({ navigation }) => {
   );
 };
 
+//may have to create a different button to enable this funciton.
 IndexScreen.navigationOptions = ({ navigation }) => {
   return {
     headerRight: () => (
